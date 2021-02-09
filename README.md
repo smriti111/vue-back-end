@@ -1,4 +1,4 @@
-# tut
+# Backend code for the blog webapp
 
 ## Project setup
 ```
